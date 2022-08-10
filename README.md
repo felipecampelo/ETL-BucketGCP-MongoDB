@@ -1,2 +1,5 @@
-# ETL-BucketGCP-MongoDB
-Processo de ETL de um dataset localizado no bucket do GCP, tratado no colab via Python e carregado no servidor do MongoDB
+## ❗ ETL: Bucket GCP + MongoDB ❗
+
+`Bucket <-> ETL <-> MongoDB`
+
+⏩**Objetivo**: Extrair o dataset do bucket do GCP, fazer o tratamento e enviar para um banco de dados do MongoDB
